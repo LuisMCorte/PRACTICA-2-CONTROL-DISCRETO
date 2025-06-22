@@ -9,7 +9,7 @@ El sistema controla una secuencia de nueve LEDs conectados a los pines de la pla
 
 
 Parte B: Parte B: Reto de control de semáforo con FSM
-El sistema de semáforo utiliza una máquina de estados finitos con cinco estados. Los estados son: Inicial (ambos semáforos en rojo), \textit{Verde A} (semáforo A en verde, B en rojo), Amarillo A (A en amarillo, B en rojo), Verde B (A en rojo, B en verde) y Amarillo B (A en rojo, B en amarillo).A continuación se muestra el diagrama de estados de manera grafica.
+El sistema de semáforo utiliza una máquina de estados finitos con cinco estados. Los estados son: Inicial (ambos semáforos en rojo), Verde A (semáforo A en verde, B en rojo), Amarillo A (A en amarillo, B en rojo), Verde B (A en rojo, B en verde) y Amarillo B (A en rojo, B en amarillo).A continuación se muestra el diagrama de estados de manera grafica.
 
 ![image](https://github.com/user-attachments/assets/99d08508-26bd-4c2a-9c47-e5d1a0ba39e9)
 
